@@ -4,7 +4,7 @@
 
 ## Deployment
 
-The web game is deployed at <https://github.com/AndreTaq/Casino-War-Game>.
+The web game is deployed at <https://andretaq.github.io/Casino-War-Game/>.
 
 ## Project Description
 
