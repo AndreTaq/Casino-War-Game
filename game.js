@@ -221,3 +221,4 @@ let casinoWarGame = {
     document.querySelector("#results").textContent = message;
     document.querySelector("#results").style.color = messageColor;
   }
+  
